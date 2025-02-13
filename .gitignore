@@ -1,0 +1,7 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ConsoleApp1/obj
+/ConsoleApp1/.vs/ConsoleApp1
